@@ -22,3 +22,12 @@ body {
     background-image: url("images/oriental.png");
     background-color: #cccccc;
  }
+
+ .figure-caption {
+     font-size: 24px;
+     color: blue;
+ }
+
+ .text-light {
+     font-size: 48px;
+ }
